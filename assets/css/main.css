@@ -1013,6 +1013,7 @@ section,
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
+  height: 90px;
   border-radius: 50%;
   margin: -40px 0 0 40px;
   position: relative;
